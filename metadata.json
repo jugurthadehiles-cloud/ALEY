@@ -1,0 +1,6 @@
+{
+  "name": "QHSE Management System",
+  "description": "Integrated QHSE Management System with interactive process mapping, centralized CAPA action plans, risk management, and OKR tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
